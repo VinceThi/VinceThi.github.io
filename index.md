@@ -30,7 +30,7 @@ My work combines mathematical modeling and numerical simulation to understand va
 “[The low-rank hypothesis of complex systems](https://doi.org/10.1038/s41567-023-02303-0),” *Nature Physics* **20**, 294 (2024).
 
 - [Featured in Nature Physics' News & Views](https://doi.org/10.1038/s41567-023-02268-0)  
-- [Cover feature of Nature Physics](https://www.nature.com/nphys/volumes/20/issues/2)
+- [Cover page of Nature Physics](https://www.nature.com/nphys/volumes/20/issues/2)
 
 
 C. Murphy, **V. Thibeault**, A. Allard, P. Desrosiers.  
