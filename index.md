@@ -3,14 +3,6 @@ layout: default
 title: Vincent Thibeault
 ---
 
-Email: [first].[last].1@ulaval.ca
-
-[Github](https://github.com/VinceThi)
-
-[ORCID](https://orcid.org/0000-0002-2730-6881) 
-
-[Google Scholar](https://scholar.google.ca/citations?user=jHEI8xcAAAAJ&hl=fr)
-
 ---
 
 ## About Me
@@ -69,11 +61,8 @@ E. Laurence, C. Murphy, G. St-Onge, X. Roy-Pomerleau, **V. Thibeault**.
 
 ## Education
 
-Ph.D. Physics
-Université Laval (2021-now)
+Ph.D. Physics, Université Laval (2021-now)
 
-M.Sc. Physics
-Université Laval (2017-2020)
+M.Sc. Physics, Université Laval (2017-2020)
 
-B.Sc. Physics
-Université Laval (2014-2017)
+B.Sc. Physics, Université Laval (2014-2017)
