@@ -3,6 +3,13 @@ layout: default
 title: Vincent Thibeault
 ---
 
+Email: [first].[last].1@ulaval.ca
+
+[Google Scholar](https://scholar.google.ca/citations?user=jHEI8xcAAAAJ&hl=fr)
+
+[ORCID](https://orcid.org/0000-0002-2730-6881) 
+
+
 ---
 
 ## About Me
