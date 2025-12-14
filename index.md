@@ -3,8 +3,6 @@ layout: default
 title: Vincent Thibeault
 ---
 
-# Vincent Thibeault
-
 Researcher in complex systems, nonlinear dynamics, and network science.  
 PhD in Physics, Université Laval.
 
@@ -16,13 +14,12 @@ GitHub: [github.com/VinceThi](https://github.com/VinceThi)
 ## About Me
 
 I study how high-dimensional complex systems can exhibit surprisingly low-dimensional behavior, using tools from linear algebra, nonlinear dynamics, random matrix theory, Koopman theory, and Lie symmetries.  
+
 My work combines mathematical modeling and numerical simulation to understand various collective phenomena in complex systems.
 
 ---
 
-## Publications
-
-# Refereed Publications
+## Refereed Publications
 
 **V. Thibeault**, A. Allard, P. Desrosiers.  
 “[The low-rank hypothesis of complex systems](https://doi.org/10.1038/s41567-023-02303-0),” *Nature Physics* **20**, 294 (2024).
@@ -53,7 +50,7 @@ G. St-Onge, **V. Thibeault**, A. Allard, L. J. Dubé, L. Hébert-Dufresne.
 
 ---
 
-# Preprints
+## Preprints
 
 **V. Thibeault**, B. Claveau, A. Allard, P. Desrosiers.  
 “[Kuramoto meets Kooman: Constants of motion, symmetries and network motifs](https://arxiv.org/abs/2504.06248),” arXiv (2025).
