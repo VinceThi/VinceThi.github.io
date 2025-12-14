@@ -6,8 +6,13 @@ title: Vincent Thibeault
 Researcher in complex systems, nonlinear dynamics, and network science.  
 PhD in Physics, Université Laval.
 
-Email: first.last.1@ulaval.ca
-GitHub: [github.com/VinceThi](https://github.com/VinceThi)
+Email: [first].[last].1@ulaval.ca
+
+[Github](https://github.com/VinceThi)
+
+[ORCID](https://orcid.org/0000-0002-2730-6881) 
+
+[Google Scholar](https://scholar.google.ca/citations?user=jHEI8xcAAAAJ&hl=fr)
 
 ---
 
@@ -64,3 +69,14 @@ E. Laurence, C. Murphy, G. St-Onge, X. Roy-Pomerleau, **V. Thibeault**.
 “[Detecting structural perturbations from time series with deep learning](https://arxiv.org/pdf/2006.05232.pdf),” arXiv (2020).
 
 ---
+
+## Education
+
+Ph.D. Physics
+Université Laval (2021-now)
+
+M.Sc. Physics
+Université Laval (2017-2020)
+
+B.Sc. Physics
+Université Laval (2014-2017)
