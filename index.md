@@ -3,9 +3,6 @@ layout: default
 title: Vincent Thibeault
 ---
 
-Researcher in complex systems, nonlinear dynamics, and network science.  
-PhD in Physics, Université Laval.
-
 Email: [first].[last].1@ulaval.ca
 
 [Github](https://github.com/VinceThi)
