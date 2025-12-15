@@ -64,3 +64,12 @@ Ph.D. Physics, Université Laval (2021-now)
 M.Sc. Physics, Université Laval (2017-2020)
 
 B.Sc. Physics, Université Laval (2014-2017)
+
+---
+
+## Thesis
+
+
+** V. Thibeault **. “Perspectives spectrales sur les systèmes complexes” Ph.D. thesis, Université Laval (2026). Upcoming.
+
+** V. Thibeault **. “[Réduire la dimension des systèmes complexes: un regard sur l'émergence de la synchronisation](https://corpus.ulaval.ca/entities/publication/f4f48fd0-c2eb-4b9f-90fd-f5379218c705),” M.Sc. thesis, Université Laval (2020).
