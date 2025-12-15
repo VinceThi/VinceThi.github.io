@@ -5,9 +5,10 @@
 
 /* Shrink the logo in the header */
 img[alt="Logo"] {
-  max-width: 110px;   /* adjust this value until you like the size */
-  height: auto;
   border-radius: 50%; /* optional: circular portrait */
+  width: 140px !important;
+  height: auto !important;
   display: block;
-  margin-bottom: 0.5rem;
+  margin-left: auto;
+  margin-right: auto;
 }
