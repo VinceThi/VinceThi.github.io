@@ -72,3 +72,14 @@ description: |
   </svg>
   &nbsp;
   <a href="https://www.researchgate.net/profile/Vincent-Thibeault/research" target="_blank">ResearchGate</a>
+
+
+  <br><br>
+
+  <!-- CV -->
+  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
+       style="vertical-align:middle" viewBox="0 0 24 24">
+    <path fill="#555" d="M6 2h9l5 5v13a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2zm8 1.5V8h4.5L14 3.5zM8 11h8v1.5H8V11zm0 3h8v1.5H8V14zm0 3h5v1.5H8V17z"/>
+  </svg>
+  &nbsp;
+  <a href="/assets/cv/CV.pdf" target="_blank">CV</a>
