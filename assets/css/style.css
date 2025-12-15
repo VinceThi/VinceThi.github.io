@@ -1,0 +1,13 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Shrink the logo in the header */
+img[alt="Logo"] {
+  max-width: 110px;   /* adjust this value until you like the size */
+  height: auto;
+  border-radius: 50%; /* optional: circular portrait */
+  display: block;
+  margin-bottom: 0.5rem;
+}
