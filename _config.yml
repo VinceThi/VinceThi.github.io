@@ -1,7 +1,6 @@
 theme: jekyll-theme-minimal
 title: Vincent Thibeault
-logo: |
-  <img src="/assets/img/vincent_mariage.png" width="130" style="border-radius: 50%;">
+logo: /assets/img/vincent_mariage.png
 
 description: |
   Complex systems, dimension reduction, nonlinear dynamics, network science, synchronization
