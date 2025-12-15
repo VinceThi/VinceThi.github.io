@@ -7,7 +7,7 @@ title: Vincent Thibeault
 
 ## About Me
 
-I am a PhD candidate in theoretical physics at Université Laval, under the supervision of Patrick Desrosiers and Antoine Allard. I study how high-dimensional complex systems can exhibit surprisingly low-dimensional behavior, using tools from linear algebra, nonlinear dynamics, random matrix theory, Koopman theory, and Lie symmetries. My work combines mathematical modeling and numerical simulation to understand various collective phenomena in complex systems.
+I am a PhD candidate in theoretical physics at Université Laval under the supervision of Patrick Desrosiers and Antoine Allard. I study how high-dimensional complex systems can exhibit surprisingly low-dimensional behavior, using tools from linear algebra, nonlinear dynamics, random matrix theory, Koopman theory, and Lie symmetries. My work combines mathematical modeling and numerical simulation to understand various collective phenomena in complex systems.
 
 ---
 
