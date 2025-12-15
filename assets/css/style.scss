@@ -14,8 +14,14 @@ img[alt="Logo"] {
   margin-bottom: 20px;
 }
 
-
+/* Center the site title (your name) */
+.site-name,
 .site-title {
   text-align: center;
 }
 
+.site-name a,
+.site-title a {
+  display: block;
+  text-align: center;
+}
