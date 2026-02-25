@@ -48,7 +48,7 @@ G. St-Onge, <span style="color:#666; font-weight:600;">V. Thibeault</span>,, A. 
 “[Kuramoto meets Kooman: Constants of motion, symmetries and network motifs](https://arxiv.org/abs/2504.06248),” arXiv (2025).
 
 
-C. Murphy, S. Lizotte, F. Thibault, <span style="color:#666; font-weight:600;">V. Thibeault</span>,, P. Desrosiers, A. Allard.  
+C. Murphy, S. Lizotte, F. Thibault, <span style="color:#666; font-weight:600;">V. Thibeault</span>, P. Desrosiers, A. Allard.  
 “[On the reconstructability of complex networks from dynamics](https://arxiv.org/abs/2501.01437),” arXiv (2025).
 
 
