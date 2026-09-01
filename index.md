@@ -7,7 +7,7 @@ title: Vincent Thibeault
 
 ## About Me
 
-I am a Wu-Tsai & CPRA Postdoctoral Fellow at Yale University with a background in theoretical physics. I study how high-dimensional complex systems can exhibit surprisingly low-dimensional behavior, using tools from linear algebra, nonlinear dynamics, random matrix theory, Koopman theory, and Lie symmetries. My work combines mathematical modeling and numerical simulation to understand various collective phenomena in complex systems, such as synchronization. I have also worked on the analysis of connectomes and neuronal dynamics, as well as on collaborative projects in information theory and epidemiology.
+I am a Wu-Tsai & CPRA Postdoctoral Fellow at Yale University with a background in theoretical physics and complex systems. My research draws on network science, nonlinear dynamics, statistical physics, and theoretical neuroscience, with a particular interest in dimension reduction and synchronization. I have also worked on the analysis of connectomes and neuronal dynamics, as well as on collaborative projects in information theory and epidemiology.
 
 ---
 
