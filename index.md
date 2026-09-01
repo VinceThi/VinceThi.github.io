@@ -7,7 +7,7 @@ title: Vincent Thibeault
 
 ## About Me
 
-I am a PhD candidate in theoretical physics at Université Laval under the supervision of Patrick Desrosiers and Antoine Allard. I study how high-dimensional complex systems can exhibit surprisingly low-dimensional behavior, using tools from linear algebra, nonlinear dynamics, random matrix theory, Koopman theory, and Lie symmetries. My work combines mathematical modeling and numerical simulation to understand various collective phenomena in complex systems, such as synchronization.
+I am a Wu-Tsai & CPRA Postdoctoral Fellow at Yale University with a background in theoretical physics. I study how high-dimensional complex systems can exhibit surprisingly low-dimensional behavior, using tools from linear algebra, nonlinear dynamics, random matrix theory, Koopman theory, and Lie symmetries. My work combines mathematical modeling and numerical simulation to understand various collective phenomena in complex systems, such as synchronization. I have also worked on the analysis of connectomes and neuronal dynamics, as well as on collaborative projects in information theory and epidemiology.
 
 ---
 
@@ -45,6 +45,9 @@ G. St-Onge, <span style="color:#666; font-weight:600;">V. Thibeault</span>,, A. 
 ## Preprints
 
 <span style="color:#666; font-weight:600;">V. Thibeault</span>,, B. Claveau, A. Allard, P. Desrosiers.  
+“[Operator-theoretic approach to the partial integration of randomly coupled phase oscillators](https://arxiv.org/abs/2607.02617),” arXiv (2026).
+
+<span style="color:#666; font-weight:600;">V. Thibeault</span>,, B. Claveau, A. Allard, P. Desrosiers.  
 “[Kuramoto meets Kooman: Constants of motion, symmetries and network motifs](https://arxiv.org/abs/2504.06248),” arXiv (2025).
 
 
@@ -59,7 +62,7 @@ E. Laurence, C. Murphy, G. St-Onge, X. Roy-Pomerleau, <span style="color:#666; f
 
 ## Education
 
-Ph.D. Physics, Université Laval (2021-now)
+Ph.D. Physics, Université Laval (2021-2026)
 
 M.Sc. Physics, Université Laval (2017-2020)
 
@@ -70,6 +73,6 @@ B.Sc. Physics, Université Laval (2014-2017)
 ## Thesis
 
 
-Hypothèses sur les réseaux complexes et la dimension de leurs dynamiques, Ph.D. thesis, Université Laval (2026). Upcoming.
+Approches spectrales et conditions structurelles pour réduire la dimension des systèmes complexes, Ph.D. thesis, Université Laval (2026).
 
 [Réduire la dimension des systèmes complexes: un regard sur l'émergence de la synchronisation](https://corpus.ulaval.ca/entities/publication/f4f48fd0-c2eb-4b9f-90fd-f5379218c705), M.Sc. thesis, Université Laval (2020).
