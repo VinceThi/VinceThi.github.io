@@ -13,26 +13,30 @@ I am a Wu-Tsai & CPRA Postdoctoral Fellow at Yale University with a background i
 
 ## Refereed Publications
 
-<span style="color:#666; font-weight:600;">V. Thibeault</span>,, A. Allard, P. Desrosiers.  
+<span style="color:#666; font-weight:600;">V. Thibeault</span>, B. Claveau, A. Allard, P. Desrosiers.  
+“[Operator-theoretic approach to the partial integration of randomly coupled phase oscillators](https://doi.org/10.1088/2632-072X/aeb0ff),” *Journal of Physics: Complexity*, **7**, 045013 (2026). Invited paper for the [Focus on the Kuramoto model](https://iopscience.iop.org/collections/jpcomplex-250806-898).
+
+
+<span style="color:#666; font-weight:600;">V. Thibeault</span>, A. Allard, P. Desrosiers.  
 “[The low-rank hypothesis of complex systems](https://doi.org/10.1038/s41567-023-02303-0),” *Nature Physics* **20**, 294 (2024).
 
 - [Featured in Nature Physics' News & Views](https://doi.org/10.1038/s41567-023-02268-0)  
 - [Cover page of Nature Physics](https://www.nature.com/nphys/volumes/20/issues/2)
 
 
-C. Murphy, <span style="color:#666; font-weight:600;">V. Thibeault</span>,, A. Allard, P. Desrosiers.  
+C. Murphy, <span style="color:#666; font-weight:600;">V. Thibeault</span>, A. Allard, P. Desrosiers.  
 “[Duality between predictability and reconstructability in complex systems](https://doi.org/10.1038/s41467-024-48020-x),” *Nature Communications* **15**, 4478 (2024).
 
 
-M. Vegué, <span style="color:#666; font-weight:600;">V. Thibeault</span>,, P. Desrosiers, A. Allard.  
+M. Vegué, <span style="color:#666; font-weight:600;">V. Thibeault</span>, P. Desrosiers, A. Allard.  
 “[Dimension reduction of dynamics on modular and heterogeneous directed networks](http://doi.org/10.1093/pnasnexus/pgad150),” *PNAS Nexus* **2**, pgad150 (2023).
 
 
-G. St-Onge, <span style="color:#666; font-weight:600;">V. Thibeault</span>,, A. Allard, L. J. Dubé, L. Hébert-Dufresne.  
+G. St-Onge, <span style="color:#666; font-weight:600;">V. Thibeault</span>, A. Allard, L. J. Dubé, L. Hébert-Dufresne.  
 “[Social confinement and mesoscopic localization of epidemics on networks](https://doi.org/10.1103/PhysRevLett.126.098301),” *Physical Review Letters* **126**, 098301 (2021).
 
 
-G. St-Onge, <span style="color:#666; font-weight:600;">V. Thibeault</span>,, A. Allard, L. J. Dubé, L. Hébert-Dufresne.  
+G. St-Onge, <span style="color:#666; font-weight:600;">V. Thibeault</span>, A. Allard, L. J. Dubé, L. Hébert-Dufresne.  
 “[Master equation analysis of mesoscopic localization in contagion dynamics on higher-order networks](https://doi.org/10.1103/PhysRevE.103.032301),” *Physical Review E* **103**, 032301 (2021).
 
 
@@ -44,10 +48,7 @@ G. St-Onge, <span style="color:#666; font-weight:600;">V. Thibeault</span>,, A. 
 
 ## Preprints
 
-<span style="color:#666; font-weight:600;">V. Thibeault</span>,, B. Claveau, A. Allard, P. Desrosiers.  
-“[Operator-theoretic approach to the partial integration of randomly coupled phase oscillators](https://arxiv.org/abs/2607.02617),” arXiv (2026).
-
-<span style="color:#666; font-weight:600;">V. Thibeault</span>,, B. Claveau, A. Allard, P. Desrosiers.  
+<span style="color:#666; font-weight:600;">V. Thibeault</span>, B. Claveau, A. Allard, P. Desrosiers.  
 “[Kuramoto meets Kooman: Constants of motion, symmetries and network motifs](https://arxiv.org/abs/2504.06248),” arXiv (2025).
 
 
@@ -55,7 +56,7 @@ C. Murphy, S. Lizotte, F. Thibault, <span style="color:#666; font-weight:600;">V
 “[On the reconstructability of complex networks from dynamics](https://arxiv.org/abs/2501.01437),” arXiv (2025).
 
 
-E. Laurence, C. Murphy, G. St-Onge, X. Roy-Pomerleau, <span style="color:#666; font-weight:600;">V. Thibeault</span>,.  
+E. Laurence, C. Murphy, G. St-Onge, X. Roy-Pomerleau, <span style="color:#666; font-weight:600;">V. Thibeault</span>.  
 “[Detecting structural perturbations from time series with deep learning](https://arxiv.org/pdf/2006.05232.pdf),” arXiv (2020).
 
 ---
@@ -73,6 +74,6 @@ B.Sc. Physics, Université Laval (2014-2017)
 ## Thesis
 
 
-Approches spectrales et conditions structurelles pour réduire la dimension des systèmes complexes, Ph.D. thesis, Université Laval (2026).
+[Approches spectrales et conditions structurelles pour réduire la dimension des systèmes complexes](https://corpus.ulaval.ca/entities/publication/e9906cab-84ef-4fde-855d-63c7c1a0120d), Ph.D. thesis, Université Laval (2026).
 
 [Réduire la dimension des systèmes complexes: un regard sur l'émergence de la synchronisation](https://corpus.ulaval.ca/entities/publication/f4f48fd0-c2eb-4b9f-90fd-f5379218c705), M.Sc. thesis, Université Laval (2020).
